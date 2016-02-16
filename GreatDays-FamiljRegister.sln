@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatDays-FamiljRegister", "GreatDays-FamiljRegister\GreatDays-FamiljRegister.csproj", "{C5A94C6B-EFA7-4514-96BC-D79E70E34CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Register-Data", "Register-Data\Register-Data.csproj", "{AD319812-C510-4EAB-8482-06CC21B86D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A94C6B-EFA7-4514-96BC-D79E70E34CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A94C6B-EFA7-4514-96BC-D79E70E34CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A94C6B-EFA7-4514-96BC-D79E70E34CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A94C6B-EFA7-4514-96BC-D79E70E34CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD319812-C510-4EAB-8482-06CC21B86D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD319812-C510-4EAB-8482-06CC21B86D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD319812-C510-4EAB-8482-06CC21B86D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD319812-C510-4EAB-8482-06CC21B86D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

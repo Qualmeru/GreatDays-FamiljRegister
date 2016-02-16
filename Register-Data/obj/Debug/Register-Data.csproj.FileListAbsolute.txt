@@ -1,0 +1,10 @@
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\Register-Data.dll.config
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\Register-Data.dll
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\Register-Data.pdb
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\EntityFramework.dll
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\EntityFramework.xml
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\obj\Debug\Register-Data.csprojResolveAssemblyReference.cache
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\obj\Debug\Register-Data.dll
+c:\users\qualmeru\documents\visual studio 2015\Projects\GreatDays-FamiljRegister\Register-Data\obj\Debug\Register-Data.pdb

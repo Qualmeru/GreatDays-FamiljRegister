@@ -1,0 +1,17 @@
+﻿@*@model List<Register_Data.Family>*@
+@{
+    
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div ng-repeat="item in data ">
+ <p>{{item.LastName}}</p> 
+    @*<p>{{models.data}}</p> track by $index*@
+</div>
+
+
+    @*<input type="text" ng-model="models.helloAngular" />
+    <h1>{{models.helloAngular}}</h1>*@
+
+
